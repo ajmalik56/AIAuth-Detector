@@ -1,6 +1,6 @@
 # Generative AI Detection
 
-![demo image](https://github.com/AkashKobal/Generative-AI-Detection/blob/main/Screenshot%20(366).png)
+
 
 ## Overview
 
@@ -9,13 +9,11 @@ This project is a web application built using **ReactJS** for the frontend and *
 ## Table of Contents
 
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Data](#data)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Submission Guidelines](#submission-guidelines)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -84,37 +82,10 @@ The code can be used in scenarios where there is a need to determine whether a g
 **Algorithms used:** Perplexity (text predictability), Burstiness (variation in sentence predictability), and thresholding for labeling the text as AI or human-written.<br>
 **Use case:** AI vs. human text detection, content authenticity verification.<br>
 
-## Installation
 
-To set up the project locally, follow these steps:
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/AkashKobal/Generative-AI-Detection.git
-   cd Generative-AI-Detection
-   ```
 
-2. **Install frontend dependencies**:
-   ```bash
-   cd frontend
-   npm install
-   ```
-
-3. **Install backend dependencies**:
-   ```bash
-   cd ../server
-   pip install -r requirements.txt
-   ```
-
-4. **Start the backend server**:
-   ```bash
-   python app.py
-   ```
-
-5. **Start the frontend server**:
-   ```bash
-   npm start
-   ```
+   
 
 ## Usage
 
@@ -135,14 +106,8 @@ To set up the project locally, follow these steps:
 ## Key Changes:
 1. Reorganized the content under appropriate headings.
 2. Added a **Data** section for clarity on the dataset.
-3. Reformatting of steps in **Installation** to improve clarity.
 
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/AkashKobal/Generative-AI-Detection/blob/main/LICENSE) file for details.
-
 
